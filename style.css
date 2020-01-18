@@ -1,0 +1,120 @@
+body{
+  background-image: url("https://images.pexels.com/photos/268976/pexels-photo-268976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  margin: 0;
+}
+
+.main {
+  background-color: rgb(17, 17, 17, 0.7);
+  height: 100px;
+  width: 100%;
+  position: sticky;
+  top: 0;
+}
+.main-intro {
+  width: 70%;
+  margin: auto;
+}
+
+
+.container {
+  width: 70%;
+  margin: auto;
+  height: 400px;
+  background-color: rgb(17, 17, 17, 0.7);
+  border-radius: 20% 10% 20% 10%;
+}
+
+}
+
+.bgimage {
+  height: 500px;
+  width: 100%;
+  background-image:url("https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+}
+
+.heading-intro {
+  font-size: 45px;
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.logo-img {
+  height: 100px;
+}
+
+.menu {
+  margin-left: 400px;
+  margin-top: -100px;
+  padding-top: 20px;
+}
+
+a{
+  font-size: 23px;
+  color: white;
+  text-decoration: none;
+  padding: 30px;
+}
+
+a:hover{
+  background-color: orange;
+  border-radius: 20px 40px 20px 40px;
+}
+
+h1:hover {
+  background-color: orange;
+  color: blue;
+  font-size: 50px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  display: inline-block;
+}
+
+.btn{
+  font-size: 20px;
+  background-color: orange;
+  margin: auto;
+  height: 200px;
+  width: 30%;
+  color: white;
+  text-align: center;
+  margin-left: 300px;
+  margin-top: 10px;
+}
+
+.btn:hover{
+  background-image: url("https://images.pexels.com/photos/50582/selfie-monkey-self-portrait-macaca-nigra-50582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+}
+
+.contains {
+  height: 500px;
+  width: 80%;
+  background-color: blue;
+  position: relative;
+  right: 40%;
+}
+
+.testimonial {
+  width: 30%;
+  height: 50%;
+  background-color: white;
+  border: dashed red;
+  border-radius: 50%;
+  position: absolute;
+  top: 40%;
+  right: 10%;
+}
+
+
+.testimonial:hover{
+    background-image: url("https://images.pexels.com/photos/50582/selfie-monkey-self-portrait-macaca-nigra-50582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+  }
